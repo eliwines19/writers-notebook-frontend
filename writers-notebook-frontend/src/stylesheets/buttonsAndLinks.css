@@ -40,6 +40,10 @@ button:hover {
 a:link {
     color: #ffa500;
     text-decoration: none;
+    background: black;
+    padding: 3px;
+    border-radius: 10px;
+
 }
 
 a:visited {

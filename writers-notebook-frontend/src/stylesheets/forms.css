@@ -1,4 +1,5 @@
 form {
+    padding: 10px;
     text-align: center;
     background: peachpuff;
     border-radius: 5rem;
@@ -7,4 +8,9 @@ form {
 form label {
     display: flex;
     justify-content: space-around;
+}
+
+form input {
+    padding: 10px;
+    margin-bottom: 10px;
 }
