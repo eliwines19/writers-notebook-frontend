@@ -1,0 +1,47 @@
+.story-div {
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    background: white;
+    margin-right: 15rem;
+    margin-left: 15rem;
+    margin-bottom: 1rem;
+}
+
+.story-list span{
+    font-size: 1.5rem;
+}
+
+.story-title {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.story-list {
+    list-style-type: none;
+}
+
+.story-list li {
+    color: rgb(105, 97, 97);
+    margin-bottom: 0.5rem;
+    padding: 3px;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.story-list li:hover {
+    background: #000000;
+    color: #ffa500;
+    cursor: crosshair;
+    border-radius: 2rem;
+}
+
+.user-buttons button {
+    float: right;
+    padding: .5rem 1rem;
+    margin: 0 1rem;
+    cursor: pointer;
+}
+
+.all-stories-div h2 {
+    text-align: center;
+}

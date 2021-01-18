@@ -1,0 +1,52 @@
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background: black;
+    border-radius: 5rem;
+}
+
+.navbar ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.navbar ul button {
+    border-style: none;
+    font-size: 1.5rem;
+    background-color: transparent;
+    padding: .5rem 2rem;
+    margin: 0 1rem;
+    cursor: pointer;
+}
+
+button {
+    color: #ffa500;
+    border-style: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+form button {
+    padding: 1rem;
+    background: #000000;
+    border-radius: 5rem;
+}
+
+button:hover {
+    color: rgb(196, 127, 0);
+}
+
+a:link {
+    color: #ffa500;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #ffa500;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(196, 127, 0);
+}

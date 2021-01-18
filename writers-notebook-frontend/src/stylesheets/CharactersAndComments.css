@@ -1,0 +1,23 @@
+.characters-and-comments {
+    background: black;
+    border-radius: 1rem;
+    padding: 1rem;
+    color: white;
+}
+
+.characters-and-comments ul {
+    list-style: none;
+}
+
+.characters-and-comments li {
+    margin-right: 5rem;
+}
+
+.characters-and-comments li button {
+    float: right;
+}
+
+.characters-and-comments form {
+    background: transparent;
+    text-align: left;
+}

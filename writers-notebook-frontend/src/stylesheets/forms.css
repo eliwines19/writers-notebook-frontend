@@ -1,0 +1,10 @@
+form {
+    text-align: center;
+    background: peachpuff;
+    border-radius: 5rem;
+}
+
+form label {
+    display: flex;
+    justify-content: space-around;
+}
